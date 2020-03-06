@@ -20,3 +20,26 @@
 .App-link {
   color: #09d3ac;
 }
+
+.my-button{
+  background-color: #333;
+  border-color: #09d3ac;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 12pt;
+  margin-left: 20px;
+}
+
+img.pokemon-image{
+  margin-top: 20px;
+  width: 150px;
+  height: 150px;
+}
+
+.input-box{
+  height: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 14px;
+}
